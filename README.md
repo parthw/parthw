@@ -7,6 +7,6 @@
 <p align="center">
 A lazy engineer who loves designing software architects and do code for fun.<br>
 <br>
-<a href="linkedin.com/in/parth-wadhwa">LinkedIn</a> <span style="color:blue;">∙</span> <a href="https://twitter.com/_parthwadhwa">Twitter</a>
+<a href="https://linkedin.com/in/parth-wadhwa">LinkedIn</a> <span style="color:blue;">∙</span> <a href="https://twitter.com/_parthwadhwa">Twitter</a>
 <br>
 </p>
