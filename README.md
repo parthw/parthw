@@ -5,7 +5,7 @@
 
 </p>
 <p align="center">
-A lazy engineer who loves exploring tools, design architects and do code for fun.<br>
+A lazy engineer who loves exploring tools, designing architects and do code for fun.<br>
 <br>
 <a href="https://twitter.com/_parthwadhwa">Twitter</a>
 <br>
