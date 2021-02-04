@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://raw.githubusercontent.com/parthw/parthw/sleepy.png">
-<img src="https://raw.githubusercontent.com/parthw/parthw/sleepy.png" alt="let's take a nap!" />
+<a href="https://github.com/parthw/parthw/blob/main/sleepy.png">
+<img src="https://github.com/parthw/parthw/blob/main/sleepy.png" alt="let's take a nap!" />
 </a>
 
 </p>
