@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+<a href="https://raw.githubusercontent.com/parthw/parthw/sleepy.png">
+<img src="https://raw.githubusercontent.com/parthw/parthw/sleepy.png" alt="let's take a nap!" />
+</a>
 
-<!--
-**parthw/parthw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p align="center">
+A lazy engineer who loves exploring tools, design architects and do code for fun.<br>
+<br>
+<a href="https://twitter.com/_parthwadhwa">Twitter</a>
+<br>
+</p>
