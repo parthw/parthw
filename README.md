@@ -1,4 +1,4 @@
 <p align="center">
-A lazy developer who loves data flow and does code for fun.<br>
+A lazy blacksmith who loves data flow and does code for fun.<br>
 <br>
 </p>
